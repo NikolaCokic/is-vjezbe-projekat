@@ -2,3 +2,4 @@ linija izmjena
 nova linija na master kreiranje merge konflikta
 treca linija
 jos jedna linija
+nova linija
